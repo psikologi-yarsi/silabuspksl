@@ -1,13 +1,43 @@
-# Komponen Penilaian
+# Komponen Penilaian {.unnumbered}
+
+Nilai akhir kamu diperoleh dari 5 komponen utama, yaitu:
+
+| No. | Komponen                   | Bobot Penilaian |
+|-----|----------------------------|-----------------|
+| 1   | Tugas (pribadi & kelompok) | 30%             |
+| 2   | Final project              | 20%             |
+| 3   | Ujian (UTS & UAS)          | 35%             |
+| 4   | Kuis                       | 5%              |
+| 5   | Aktivitas partisipatif     | 10%             |
 
 ## Tugas
 
 ### Tugas Pribadi
 
+Tugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara mandiri, seperti analisis artikel, interpretasi output statistik, atau penyusunan instrumen penelitian. Penilaian didasarkan pada ketepatan jawaban, kedalaman analisis, serta kerapian dan kejelasan penyajian.
+
 ### Tugas Kelompok
+
+Tugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui *peer assessment*).
 
 ## Final Project
 
+Merupakan proyek penelitian mini yang mencakup perancangan, analisis data, dan penyusunan laporan dalam format ilmiah. Proyek ini dapat dikerjakan secara berkelompok dan menjadi penilaian utama yang menunjukkan kemampuan mahasiswa menerapkan metode penelitian kuantitatif dan statistik lanjutan secara nyata.
+
 ## Kuis
 
-## UTS & UAS
+Kuis diberikan secara berkala untuk mengevaluasi pemahaman mahasiswa terhadap materi yang sudah diajarkan. Kuis dapat berupa soal singkat atau latihan analisis, dan menjadi indikator keteraturan belajar mahasiswa sepanjang semester.
+
+## Ujian
+
+### UTS
+
+Mengukur pemahaman mahasiswa pada setengah pertama materi kuliah, terutama terkait prinsip-prinsip dasar penelitian kuantitatif, desain eksperimen, serta dasar-dasar pengujian hipotesis.
+
+### UAS
+
+Mengukur pemahaman mahasiswa secara komprehensif pada keseluruhan materi, termasuk keterampilan analisis statistik lanjutan dan interpretasi hasil penelitian.
+
+## Aktivitas Partisipatif
+
+Aktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif.

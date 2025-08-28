@@ -10,6 +10,7 @@ book:
     - index.qmd
     - ringkasan.qmd
     - materi.qmd
+    - komponen.qmd
     - policies.qmd
   sidebar: 
     style: docked
