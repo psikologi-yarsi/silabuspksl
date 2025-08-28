@@ -144,7 +144,7 @@
     "href": "komponen.html",
     "title": "Komponen Penilaian",
     "section": "",
-    "text": "Tugas\nNilai akhir kamu diperoleh dari 5 komponen utama, yaitu:",
+    "text": "Tugas\nNilai akhir kamu diperoleh dari 5 komponen utama, yaitu:\nTugas diberikan untuk menilai kemampuan mahasiswa dalam memahami, mengaplikasikan, dan mengembangkan konsep yang dipelajari selama perkuliahan. Tugas terbagi menjadi tugas individu dan tugas kelompok.",
     "crumbs": [
       "Komponen Penilaian"
     ]
@@ -154,7 +154,7 @@
     "href": "komponen.html#tugas",
     "title": "Komponen Penilaian",
     "section": "",
-    "text": "Tugas Pribadi\nTugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara mandiri, seperti analisis artikel, interpretasi output statistik, atau penyusunan instrumen penelitian. Penilaian didasarkan pada ketepatan jawaban, kedalaman analisis, serta kerapian dan kejelasan penyajian.\n\n\nTugas Kelompok\nTugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui peer assessment).",
+    "text": "Tugas Pribadi\nTugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara mandiri, seperti analisis artikel, interpretasi output statistik, atau penyusunan instrumen penelitian. Penilaian didasarkan pada ketepatan jawaban, kedalaman analisis, serta kerapian dan kejelasan penyajian.\n\n\nTugas Kelompok\nTugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui peer assessment).\nTugas dapat diberikan dan dikerjakan secara langsung di kelas (in-class assignment) maupun sebagai pekerjaan rumah (take-home assignment). Untuk memperkuat pemahaman dan melatih keterampilan komunikasi akademik, setiap tugas yang diberikan akan disertai dengan sesi presentasi, baik individu maupun kelompok, sehingga mahasiswa dapat berbagi hasil analisis, mendapatkan umpan balik, serta berlatih menyampaikan gagasan secara ilmiah.\n\n\n\n\n\n\n\n\n\nMinggu\nTugas\nJenis Tugas\nKeterangan\n\n\n\n\n1\nAnalisis artikel penelitian\nIndividu\nIdentifikasi jenis penelitian kuantitatif (eksperimental/non-eksperimental)\n\n\n2\nSketsa desain eksperimen\nIndividu\nMembuat rancangan between-subject sederhana\n\n\n3\nInterpretasi output uji-t\nIndividu\nMembaca output uji-t dan membuat kesimpulan\n\n\n4\nAnalisis dataset between-subject\nIndividu\nUji perbedaan dengan ANOVA/t-test independen\n\n\n5\nAnalisis artikel within-subject\nIndividu\nAnalisis prosedur & risiko bias desain within-subject\n\n\n6\nAnalisis dataset within-subject\nIndividu\nUji paired t-test / repeated measures ANOVA\n\n\n7\nIdentifikasi faktor & interaksi\nKelompok\nAnalisis artikel eksperimen faktorial (faktor, level, interaksi)\n\n\n8\nAnalisis korelasional\nIndividu\nHitung & interpretasi korelasi\n\n\n9\nInterpretasi output\nIndividu\nMembaca output regresi sederhana dan membuat kesimpulan\n\n\n10\nInterpretasi output regresi majemuk\nKelompok\nMembaca output regresi majemuk dan membuat kesimpulan\n\n\n11\nDraft proposal mini\nKelompok\nRancangan penelitian mini (latar belakang, tujuan, metode)\n\n\n12\nInformed consent & kuesioner\nKelompok\nPenyusunan dokumen etik & instrumen demografi\n\n\n13\nPraktik analisis data simulasi\nKelompok\nAnalisis dataset simulasi & pelaporan sesuai APA\n\n\n14\nPresentasi laporan penelitian mini\nKelompok\nPresentasi laporan penelitian",
     "crumbs": [
       "Komponen Penilaian"
     ]
@@ -164,7 +164,7 @@
     "href": "komponen.html#final-project",
     "title": "Komponen Penilaian",
     "section": "Final Project",
-    "text": "Final Project\nMerupakan proyek penelitian mini yang mencakup perancangan, analisis data, dan penyusunan laporan dalam format ilmiah. Proyek ini dapat dikerjakan secara berkelompok dan menjadi penilaian utama yang menunjukkan kemampuan mahasiswa menerapkan metode penelitian kuantitatif dan statistik lanjutan secara nyata.",
+    "text": "Final Project\nMerupakan proyek penelitian mini yang mencakup perancangan, analisis data, dan penyusunan laporan dalam format ilmiah. Proyek ini dapat dikerjakan secara berkelompok dan menjadi penilaian utama yang menunjukkan kemampuan mahasiswa menerapkan metode penelitian kuantitatif dan statistik lanjutan secara nyata.\nBerikut ini adalah hal-hal yang dinilai dalam komponen final project (masing-masing berbobot 20%):\n\nOrisinalitas ide penelitian\nKetepatan penyusunan & pengembangan instrumen penelitian\nKetepatan memilih metode pengambilan dan analisis data\nKerapihan penulisan laporan\nKejelasan dalam pemaparan (presentasi) laporan hasil penelitian\n\nBesaran nilai final project (begitu pula Tugas Kelompok) salah satunya ditentukan oleh penilaian yang diberikan oleh rekan-rekan kelompok mengenai kontribusi kalian dalam pengerjaan dan penyelesaian tugas atau proyek. Dengan demikian, dalam satu kelompok yang sama setiap mahasiswa bisa saja memperoleh nilai yang berbeda berdasarkan penilaian kontribusi tersebut.",
     "crumbs": [
       "Komponen Penilaian"
     ]
@@ -174,7 +174,7 @@
     "href": "komponen.html#kuis",
     "title": "Komponen Penilaian",
     "section": "Kuis",
-    "text": "Kuis\nKuis diberikan secara berkala untuk mengevaluasi pemahaman mahasiswa terhadap materi yang sudah diajarkan. Kuis dapat berupa soal singkat atau latihan analisis, dan menjadi indikator keteraturan belajar mahasiswa sepanjang semester.",
+    "text": "Kuis\nKuis diberikan secara berkala untuk mengevaluasi pemahaman mahasiswa terhadap materi yang sudah diajarkan. Kuis dapat berupa soal singkat atau latihan analisis, dan menjadi indikator keteraturan belajar mahasiswa sepanjang semester.\nSeluruh kuis akan dapat diakses melalui LAYAR. Semua kuis bersifat open-book dan terdiri dari pertanyaan-pertanyaan yang dipilih secara acak, sehingga setiap siswa akan memiliki kuis yang berbeda. Anda tidak diperbolehkan berkolaborasi atau meminta bantuan dalam kuis ini (lihat bagian Plagiarisme & Integritas Akademik).",
     "crumbs": [
       "Komponen Penilaian"
     ]
@@ -194,9 +194,19 @@
     "href": "komponen.html#aktivitas-partisipatif",
     "title": "Komponen Penilaian",
     "section": "Aktivitas Partisipatif",
-    "text": "Aktivitas Partisipatif\nAktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif.",
+    "text": "Aktivitas Partisipatif\nAktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif. Setiap bentu partisipasi aktif mahasiswa akan diberikan penilaian sebagai bentuk apresiasi.",
     "crumbs": [
       "Komponen Penilaian"
+    ]
+  },
+  {
+    "objectID": "policies.html#sec-plagiarisme",
+    "href": "policies.html#sec-plagiarisme",
+    "title": "Kebijakan Kelas",
+    "section": "Plagiarisme & Integritas Akademik",
+    "text": "Plagiarisme & Integritas Akademik\nKami berharap kalian memahami apa itu plagiarisme dan apa yang bukan. Plagiarisme berarti mengambil pekerjaan orang lain dan mengakuinya sebagai pekerjaan sendiri tanpa mencantumkan sumber. Kalian tidak boleh menyalin karya orang lain, dan tidak boleh hanya mengubah kata-kata dari sumber lain tanpa memberikan kredit. Jika menggunakan ide, data, atau tulisan orang lain, wajib mencantumkan sitasi. Tulislah dengan kata-kata kalian sendiri. Jika kalian ragu apakah suatu hal termasuk plagiarisme atau tidak, silakan tanyakan pada dosen pengampu. Mahasiswa yang terbukti melakukan plagiarisme akan dilaporkan ke Kepala Prodi, mendapatkan nilai nol untuk tugas tersebut, dan bisa dinyatakan tidak lulus dalam mata kuliah ini.\nKuis dan tugas-tugas individu harus dikerjakan secara mandiri. Namun, kami mendorong kalian untuk dapat bekerja sama dengan teman sekelas untuk tugas dan penilaian lainnya. Proyek dan tugas kelompok wajib dikerjakan bersama. Belajar bersama dalam kelompok sangat dianjurkan karena membantu memahami materi, tetapi pastikan kalian tetap bisa menjawab pertanyaan secara mandiri. Kami percaya bahwa kalian mengikuti mata kuliah ini dengan tujuan belajar sebaik-baiknya dan menjaga integritas akademik.",
+    "crumbs": [
+      "Kebijakan Kelas"
     ]
   }
 ]

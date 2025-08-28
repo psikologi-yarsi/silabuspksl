@@ -12,6 +12,8 @@ Nilai akhir kamu diperoleh dari 5 komponen utama, yaitu:
 
 ## Tugas
 
+Tugas diberikan untuk menilai kemampuan mahasiswa dalam memahami, mengaplikasikan, dan mengembangkan konsep yang dipelajari selama perkuliahan. Tugas terbagi menjadi **tugas individu** dan **tugas kelompok**.
+
 ### Tugas Pribadi
 
 Tugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara mandiri, seperti analisis artikel, interpretasi output statistik, atau penyusunan instrumen penelitian. Penilaian didasarkan pada ketepatan jawaban, kedalaman analisis, serta kerapian dan kejelasan penyajian.
@@ -20,13 +22,48 @@ Tugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara m
 
 Tugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui *peer assessment*).
 
+Tugas dapat diberikan dan dikerjakan secara langsung di kelas (*in-class assignment*) maupun sebagai pekerjaan rumah (*take-home assignment*). Untuk memperkuat pemahaman dan melatih keterampilan komunikasi akademik, setiap tugas yang diberikan akan disertai dengan sesi presentasi, baik individu maupun kelompok, sehingga mahasiswa dapat berbagi hasil analisis, mendapatkan umpan balik, serta berlatih menyampaikan gagasan secara ilmiah.
+
+| Minggu | Tugas | Jenis Tugas | Keterangan |
+|-------|---------------------|----------|-----------------------------------|
+| 1 | Analisis artikel penelitian | Individu | Identifikasi jenis penelitian kuantitatif (eksperimental/non-eksperimental) |
+| 2 | Sketsa desain eksperimen | Individu | Membuat rancangan *between-subject* sederhana |
+| 3 | Interpretasi output uji-t | Individu | Membaca output uji-t dan membuat kesimpulan |
+| 4 | Analisis dataset *between-subject* | Individu | Uji perbedaan dengan ANOVA/t-test independen |
+| 5 | Analisis artikel *within-subject* | Individu | Analisis prosedur & risiko bias desain *within-subject* |
+| 6 | Analisis dataset *within-subject* | Individu | Uji paired t-test / repeated measures ANOVA |
+| 7 | Identifikasi faktor & interaksi | Kelompok | Analisis artikel eksperimen faktorial (faktor, level, interaksi) |
+| 8 | Analisis korelasional | Individu | Hitung & interpretasi korelasi |
+| 9 | Interpretasi output | Individu | Membaca output regresi sederhana dan membuat kesimpulan |
+| 10 | Interpretasi output regresi majemuk | Kelompok | Membaca output regresi majemuk dan membuat kesimpulan |
+| 11 | Draft proposal mini | Kelompok | Rancangan penelitian mini (latar belakang, tujuan, metode) |
+| 12 | Informed consent & kuesioner | Kelompok | Penyusunan dokumen etik & instrumen demografi |
+| 13 | Praktik analisis data simulasi | Kelompok | Analisis dataset simulasi & pelaporan sesuai APA |
+| 14 | Presentasi laporan penelitian mini | Kelompok | Presentasi laporan penelitian |
+
 ## Final Project
 
 Merupakan proyek penelitian mini yang mencakup perancangan, analisis data, dan penyusunan laporan dalam format ilmiah. Proyek ini dapat dikerjakan secara berkelompok dan menjadi penilaian utama yang menunjukkan kemampuan mahasiswa menerapkan metode penelitian kuantitatif dan statistik lanjutan secara nyata.
 
+Berikut ini adalah hal-hal yang dinilai dalam komponen *final project* (masing-masing berbobot 20%):
+
+1.  Orisinalitas ide penelitian
+
+2.  Ketepatan penyusunan & pengembangan instrumen penelitian
+
+3.  Ketepatan memilih metode pengambilan dan analisis data
+
+4.  Kerapihan penulisan laporan
+
+5.  Kejelasan dalam pemaparan (presentasi) laporan hasil penelitian
+
+Besaran nilai *final project* (begitu pula Tugas Kelompok) salah satunya ditentukan oleh penilaian yang diberikan oleh rekan-rekan kelompok mengenai kontribusi kalian dalam pengerjaan dan penyelesaian tugas atau proyek. Dengan demikian, dalam satu kelompok yang sama setiap mahasiswa bisa saja memperoleh nilai yang berbeda berdasarkan penilaian kontribusi tersebut.
+
 ## Kuis
 
 Kuis diberikan secara berkala untuk mengevaluasi pemahaman mahasiswa terhadap materi yang sudah diajarkan. Kuis dapat berupa soal singkat atau latihan analisis, dan menjadi indikator keteraturan belajar mahasiswa sepanjang semester.
+
+Seluruh kuis akan dapat diakses melalui LAYAR. Semua kuis bersifat *open-book* dan terdiri dari pertanyaan-pertanyaan yang dipilih secara acak, sehingga setiap siswa akan memiliki kuis yang berbeda. Anda tidak diperbolehkan berkolaborasi atau meminta bantuan dalam kuis ini (lihat bagian @sec-plagiarisme).
 
 ## Ujian
 
@@ -40,4 +77,4 @@ Mengukur pemahaman mahasiswa secara komprehensif pada keseluruhan materi, termas
 
 ## Aktivitas Partisipatif
 
-Aktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif.
+Aktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif. Setiap bentu partisipasi aktif mahasiswa akan diberikan penilaian sebagai bentuk apresiasi.
