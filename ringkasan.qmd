@@ -20,4 +20,10 @@ Pada akhir semester Anda akan mampu...
 
 Dosen pengampu utama MK PKSL [Sunu Bagaskara](https://scholar.google.co.id/citations?user=fgMG__YAAAAJ&hl=en) (kelas A) dan [Entin Nurhayati](https://scholar.google.co.id/citations?hl=en&user=F9qebwEAAAAJ) (kelas B).
 
-Selain itu, terdapat 2 asisten tutoring/mentoring yang bersedia membantu untuk sesi teori dan praktikum dengan jadwal 2 jam per pekan: Selasa, pkl. 13.00-15.00
+::: callout-note
+Terdapat 2 asisten tutoring/mentoring yang bersedia membantu untuk sesi teori dan praktikum dengan jadwal 2 jam per pekan: Selasa, pkl. 13.00-15.00.
+:::
+
+::: callout-important
+Jika ingin berdiskusi dengan dosen pengampu di luar jadwal kuliah harus membuat janji temu terlebih dahulu.
+:::

@@ -20,7 +20,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - cosmo
+      - united
       - brand
     toc: true
     toc-depth: 3

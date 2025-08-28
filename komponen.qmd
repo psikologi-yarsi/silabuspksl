@@ -1,6 +1,6 @@
 # Komponen Penilaian {.unnumbered}
 
-Nilai akhir kamu diperoleh dari 5 komponen utama, yaitu:
+Nilai akhir kalian diperoleh dari 5 komponen utama, yaitu:
 
 | No. | Komponen                   | Bobot Penilaian |
 |-----|----------------------------|-----------------|
@@ -20,12 +20,10 @@ Tugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara m
 
 ### Tugas Kelompok
 
-Tugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui *peer assessment*).
-
-Tugas dapat diberikan dan dikerjakan secara langsung di kelas (*in-class assignment*) maupun sebagai pekerjaan rumah (*take-home assignment*). Untuk memperkuat pemahaman dan melatih keterampilan komunikasi akademik, setiap tugas yang diberikan akan disertai dengan sesi presentasi, baik individu maupun kelompok, sehingga mahasiswa dapat berbagi hasil analisis, mendapatkan umpan balik, serta berlatih menyampaikan gagasan secara ilmiah.
+Tugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui [*peer assessment*]).
 
 | Minggu | Tugas | Jenis Tugas | Keterangan |
-|-------|---------------------|----------|-----------------------------------|
+|--------------|----------------|--------------|-----------------------------|
 | 1 | Analisis artikel penelitian | Individu | Identifikasi jenis penelitian kuantitatif (eksperimental/non-eksperimental) |
 | 2 | Sketsa desain eksperimen | Individu | Membuat rancangan *between-subject* sederhana |
 | 3 | Interpretasi output uji-t | Individu | Membaca output uji-t dan membuat kesimpulan |
@@ -40,6 +38,10 @@ Tugas dapat diberikan dan dikerjakan secara langsung di kelas (*in-class assignm
 | 12 | Informed consent & kuesioner | Kelompok | Penyusunan dokumen etik & instrumen demografi |
 | 13 | Praktik analisis data simulasi | Kelompok | Analisis dataset simulasi & pelaporan sesuai APA |
 | 14 | Presentasi laporan penelitian mini | Kelompok | Presentasi laporan penelitian |
+
+::: callout-note
+Tugas dapat diberikan dan dikerjakan secara langsung di kelas (*in-class assignment*) maupun sebagai pekerjaan rumah (*take-home assignment*). Untuk memperkuat pemahaman dan melatih keterampilan komunikasi akademik, setiap tugas yang diberikan akan disertai dengan sesi presentasi, baik individu maupun kelompok, sehingga mahasiswa dapat berbagi hasil analisis, mendapatkan umpan balik, serta berlatih menyampaikan gagasan secara ilmiah.
+:::
 
 ## Final Project
 
@@ -57,7 +59,9 @@ Berikut ini adalah hal-hal yang dinilai dalam komponen *final project* (masing-m
 
 5.  Kejelasan dalam pemaparan (presentasi) laporan hasil penelitian
 
+::: callout-important
 Besaran nilai *final project* (begitu pula Tugas Kelompok) salah satunya ditentukan oleh penilaian yang diberikan oleh rekan-rekan kelompok mengenai kontribusi kalian dalam pengerjaan dan penyelesaian tugas atau proyek. Dengan demikian, dalam satu kelompok yang sama setiap mahasiswa bisa saja memperoleh nilai yang berbeda berdasarkan penilaian kontribusi tersebut.
+:::
 
 ## Kuis
 
@@ -77,4 +81,24 @@ Mengukur pemahaman mahasiswa secara komprehensif pada keseluruhan materi, termas
 
 ## Aktivitas Partisipatif
 
-Aktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif. Setiap bentu partisipasi aktif mahasiswa akan diberikan penilaian sebagai bentuk apresiasi.
+Aktivitas ini menilai keaktifan mahasiswa selama proses pembelajaran, baik dalam diskusi kelas, refleksi, maupun partisipasi dalam kelompok belajar. Aspek yang dinilai mencakup keterlibatan aktif, kontribusi ide, kedisiplinan, dan sikap kooperatif.
+
+::: callout-important
+Setiap bentuk partisipasi aktif mahasiswa akan diberikan penilaian sebagai bentuk apresiasi.
+:::
+
+## *Peer Assessment*
+
+Setiap mahasiswa wajib memberikan penilaian terhadap kontribusi dan kualitas kerja diri sendiri dan rekan sekelompok. Penilaian diberikan di pekan terakhir menjelang UAS dengan menggunakaan media penilaian online. Penilaian yang diberikan mencakup:
+
+-   Keterlibatan dalam memberikan ide
+
+-   Keterlibatan dalam mencari referensi
+
+-   Tanggung jawab dalam mengerjakan tugas masing-masing
+
+-   Inisiatif membantu anggota kelompok lain
+
+-   Inisiatif dalam mengatur pembagian tugas dan jadwal kerja
+
+-   Inisiatif dalam memastikan bahwa tugas sudah dilakukan dengan baik
