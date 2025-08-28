@@ -1,4 +1,6 @@
+::: {style="text-align: center;"}
 # MKK151304: Penelitian Kuantitatif & Statistik Lanjutan {.unnumbered}
+:::
 
 ::: {style="text-align: center;"}
 **Dr. Sunu Bagaskara, M. Si**\
