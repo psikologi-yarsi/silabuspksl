@@ -14,6 +14,7 @@ book:
     - policies.qmd
   sidebar: 
     style: docked
+  downloads: [pdf]
   
 bibliography: references.bib
 
@@ -22,6 +23,7 @@ format:
     theme:
       - united
       - brand
+    respect-user-color-scheme: true
     toc: true
     toc-depth: 3
     toc-expand: 3
