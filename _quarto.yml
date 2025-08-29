@@ -12,6 +12,7 @@ book:
     - materi.qmd
     - komponen.qmd
     - policies.qmd
+    - jadwal.qmd
   sidebar: 
     style: docked
   downloads: [pdf]
