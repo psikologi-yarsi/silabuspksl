@@ -4,8 +4,10 @@ project:
 
 book:
   title: "Silabus PKSL"
+  subtitle: "MKK151304"
   author: "Sunu Bagaskara"
-  date: "8/18/2025"
+  date: last-modified
+  date-format: "D MMMM YYYY"
   chapters:
     - index.qmd
     - ringkasan.qmd
@@ -28,9 +30,9 @@ format:
     toc: true
     toc-depth: 3
     toc-expand: 3
-  
+    title-block-banner: true
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
   
   
 editor: visual
