@@ -33,7 +33,7 @@ format:
     title-block-banner: true
   pdf:
     documentclass: scrbook
-  
+    breadcrumb: true
   
 editor: visual
 
