@@ -36,10 +36,10 @@
 
 ## Software
 
-![](https://www.columbiacp.com/cfolder/columbiacp/library/Tree/millisecond/inquisitedit.jpg){width="252"}
+[![](https://www.columbiacp.com/cfolder/columbiacp/library/Tree/millisecond/inquisitedit.jpg){width="252"}](https://www.millisecond.com/)
 
-![](images/clipboard-3534985715.png){width="246"}
+[![](images/clipboard-3534985715.png){width="246"}](https://jasp-stats.org/)
 
-![](images/clipboard-1251795608.png){width="250"}
+[![](images/clipboard-1251795608.png){width="250"}](https://www.jamovi.org/)
 
-![](images/PEBL.png){width="251"}
+[![](images/PEBL.png){width="251"}](https://pebl.sourceforge.net/)

@@ -16,8 +16,10 @@ Semester Ganjil 2025/2026
 
 ::: callout-caution
 Prasyarat: Penelitian Kuantitatif & Statistik Dasar (MKK151203)
+
+Prasyarat untuk: Seminar Proposal Skripsi (MKK151701)
 :::
 
 ::: callout-tip
-Untuk mengakses informasi, materi kuliah, dan tugas silakan masuk laman LAYAR YARSI di: <https://quarto.org/docs/books>.
+Untuk mengakses informasi, materi kuliah, dan tugas silakan masuk laman [LAYAR](https://layar.yarsi.ac.id/course/view.php?id=13387)
 :::
