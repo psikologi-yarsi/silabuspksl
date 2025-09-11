@@ -63,7 +63,7 @@ Besaran nilai *final project* (begitu pula Tugas Kelompok) salah satunya ditentu
 
 Kuis diberikan secara berkala untuk mengevaluasi pemahaman mahasiswa terhadap materi yang sudah diajarkan. Kuis dapat berupa soal singkat atau latihan analisis, dan menjadi indikator keteraturan belajar mahasiswa sepanjang semester.
 
-Seluruh kuis akan dapat diakses melalui LAYAR. Semua kuis bersifat *open-book* dan terdiri dari pertanyaan-pertanyaan yang dipilih secara acak, sehingga setiap siswa akan memiliki kuis yang berbeda. Anda tidak diperbolehkan berkolaborasi atau meminta bantuan dalam kuis ini (lihat bagian @sec-plagiarisme).
+Seluruh kuis akan dapat diakses melalui LAYAR. Semua kuis bersifat *open-book* dan terdiri dari pertanyaan-pertanyaan yang dipilih secara acak, sehingga setiap siswa akan memiliki kuis yang berbeda. Anda tidak diperbolehkan berkolaborasi atau meminta bantuan dalam kuis ini (lihat @sec-plagiat).
 
 ## Ujian
 

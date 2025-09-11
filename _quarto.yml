@@ -34,6 +34,9 @@ format:
   pdf:
     documentclass: scrreprt
     breadcrumb: true
+    pdf-engine: lualatex
+    mainfont: roboto
+    sansfont: roboto
   
 editor: visual
 
