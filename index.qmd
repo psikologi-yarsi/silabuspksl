@@ -11,8 +11,8 @@ Semester Ganjil 2025/2026
 
 | Kelas | Waktu              | Ruangan | Lab      | Dosen           |
 |-------|--------------------|---------|----------|-----------------|
-| A     | Kamis, 10:00-14.40 | R 651   | Labkom 1 | Sunu Bagaskara  |
-| B     | Kamis, 10:00-14.40 | R 652   | Labkom 2 | Entin Nurhayati |
+| A     | Kamis, 10:00-14.40 | R 652   | Labkom 1 | Sunu Bagaskara  |
+| B     | Kamis, 10:00-14.40 | R 653   | Labkom 2 | Entin Nurhayati |
 
 ::: callout-caution
 Prasyarat: Penelitian Kuantitatif & Statistik Dasar (MKK151203)
