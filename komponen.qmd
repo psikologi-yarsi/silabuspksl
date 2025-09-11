@@ -23,7 +23,7 @@ Tugas ini diberikan untuk mengukur pemahaman dan keterampilan mahasiswa secara m
 Tugas ini mendorong kolaborasi mahasiswa, misalnya dalam perancangan proposal mini, analisis data kelompok, atau presentasi hasil penelitian. Penilaian didasarkan pada kualitas hasil kerja kelompok serta kontribusi masing-masing anggota (melalui [*peer assessment*]).
 
 | Minggu | Tugas | Jenis Tugas | Keterangan |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 1 | Analisis artikel penelitian | Individu | Identifikasi jenis penelitian kuantitatif (eksperimental/non-eksperimental) |
 | 2 | Sketsa desain eksperimen | Individu | Membuat rancangan *between-subject* sederhana |
 | 3 | Interpretasi output uji-t | Individu | Membaca output uji-t dan membuat kesimpulan |
@@ -50,13 +50,9 @@ Merupakan proyek penelitian mini yang mencakup perancangan, analisis data, dan p
 Berikut ini adalah hal-hal yang dinilai dalam komponen *final project* (masing-masing berbobot 20%):
 
 1.  Orisinalitas ide penelitian
-
 2.  Ketepatan penyusunan & pengembangan instrumen penelitian
-
 3.  Ketepatan memilih metode pengambilan dan analisis data
-
 4.  Kerapihan penulisan laporan
-
 5.  Kejelasan dalam pemaparan (presentasi) laporan hasil penelitian
 
 ::: callout-important
@@ -92,13 +88,8 @@ Setiap bentuk partisipasi aktif mahasiswa akan diberikan penilaian sebagai bentu
 Setiap mahasiswa wajib memberikan penilaian terhadap kontribusi dan kualitas kerja diri sendiri dan rekan sekelompok. Penilaian diberikan di pekan terakhir menjelang UAS dengan menggunakaan media penilaian online. Penilaian yang diberikan mencakup:
 
 -   Keterlibatan dalam memberikan ide
-
 -   Keterlibatan dalam mencari referensi
-
 -   Tanggung jawab dalam mengerjakan tugas masing-masing
-
 -   Inisiatif membantu anggota kelompok lain
-
 -   Inisiatif dalam mengatur pembagian tugas dan jadwal kerja
-
 -   Inisiatif dalam memastikan bahwa tugas sudah dilakukan dengan baik

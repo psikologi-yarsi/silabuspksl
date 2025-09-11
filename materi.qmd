@@ -5,33 +5,25 @@
 ### Utama
 
 -   Bagaskara, S., Nurhayati, E., Akmal., S. Z., Fitriana, T. S., & Januarsjaf, A. (2025). *Statistik unuk Psikologi & Ilmu Sosial: Buku Panduan Praktis untuk Mahasiswa & Peneliti Muda*. YARSI Press.
-
 -   Goss-Sampson, M. A., Bagaskara, S., Akmal, S. Z., Triman, A., Nurhayati, E., & Grasiaswaty, N. (2019) [*Analisis Statistik Menggunakan JASP: Buku Panduan untuk Mahasiswa*](https://static.jasp-stats.org/Manuals/Statistical_Analysis_in_JASP_A_Students_Guide_v0.11_Bahasa_Indonesia.pdf).
-
 -   Seniati, L., Yulianto, A., & Setiadi, B. N. (2022). [*Psikologi Eksperimen*](https://ebooks.gramedia.com/id/buku/psikologi-eksperimen "e-book"). PT Indeks.
 
 ### Pengayaan
 
 -   Aron, A., Aron, E., & Coups, E. (2014). *Statistics for Psychology* (6^th^ Ed.). Pearson
-
 -   Coolican, H. (2014). *Research Methods and Statistics in Psychology* (6^th^ Ed.). Psychology Press.
-
 -   Gravetter, F. J. & Forzano, L. B. (2018). *Research Methods for the Behavioral Sciences* (6^th^ Ed.). Cengage.
-
 -   Gravetter, F. J. & Wallnau, L, B, (2014). *Essentials of Statistics for the Behavioral Sciences* (6^th^ Ed.). Cengage.
 
 ## Website
 
 -   [Psi Chi Journal of Psychological Research](https://www.psichi.org/page/journal_past)
-
 -   [PsyToolkit](https://www.psytoolkit.org/)
-
 -   [psyence.id](psyence.id)
 
 ## Multimedia
 
 -   [StatQuest](https://youtube.com/@statquest?si=Rezn15sgAlfN6XGX) (YouTube channel)
-
 -   [Semesta Psikometrika](https://youtube.com/@semestapsikometrika?si=t4Pt4SOjrk8upL9X) (YouTube channel)
 
 ## Software

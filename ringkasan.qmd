@@ -11,9 +11,7 @@ Melalui perpaduan teori, latihan analisis, serta praktik perancangan penelitian 
 Pada akhir semester Anda akan mampu...
 
 -   memahami prinsip-prinsip dasar dan penerapan penelitian kuantitatif eksperimental dan non eksperimental
-
 -   memahami pengujian hipotesis yang sesuai dengan metode penelitian yang dilakukan
-
 -   merancang dan menjalankan penelitian eksperimenal dan non eksperimental
 
 ## Instruktur
@@ -21,7 +19,14 @@ Pada akhir semester Anda akan mampu...
 Dosen pengampu utama MK PKSL [Sunu Bagaskara](https://scholar.google.co.id/citations?user=fgMG__YAAAAJ&hl=en) (kelas A) dan [Entin Nurhayati](https://scholar.google.co.id/citations?hl=en&user=F9qebwEAAAAJ) (kelas B).
 
 ::: callout-note
-Terdapat 2 asisten tutoring/mentoring yang bersedia membantu untuk sesi teori dan praktikum dengan jadwal 2 jam per pekan: Selasa, pkl. 13.00-15.00.
+Terdapat bebearapa asisten instruktur yang bersedia membantu tutoring/mentoring untuk sesi teori dan praktikum dengan jadwal 2 jam per pekan (sesuai perjanjian).
+
+| Asisten Kelas A       | Asisten Kelas B    |
+|-----------------------|--------------------|
+| Celine Aleeza         | Latanza Wakamaraka |
+| Nurul Azka Khairinisa | Sahlah Nafiah      |
+| Raka Radityo Herviant | Vera Al-Riska      |
+| Sarah Az Zahrah       |                    |
 :::
 
 ::: callout-important
