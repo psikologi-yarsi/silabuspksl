@@ -32,7 +32,7 @@ format:
     toc-expand: 3
     title-block-banner: true
   pdf:
-    documentclass: scrbook
+    documentclass: scrreprt
     breadcrumb: true
   
 editor: visual
